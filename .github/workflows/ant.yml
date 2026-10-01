@@ -10,7 +10,7 @@ on:
     branches: [ "main" ]
 
 jobs: 
-  build:
+  build: qrcode.java
 
     runs-on: ubuntu-latest
 
